@@ -1,2 +1,3 @@
-# latihanwweb1
-nama : Dinar Azizah nim : 2205101124
+# latihanModul1
+nama : Dinar Azizah 
+nim : 2205101124
